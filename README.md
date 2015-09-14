@@ -2,3 +2,6 @@ A collection of simple scripts and programs to test for date issues involving ca
 
 Recent media mention of this project:
 http://www.bbc.com/future/story/20150505-the-numbers-that-lead-to-disaster
+
+An older but good discussion thread:
+https://lwn.net/Articles/563285/
