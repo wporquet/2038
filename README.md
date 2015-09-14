@@ -1,1 +1,1 @@
-# 2038
+A collection of simple scripts and programs to test for date issues involving calculating dates beyond the critial date in 2038. See the project wiki for more details. Don't run these scripts on production servers!
